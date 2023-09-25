@@ -4,3 +4,4 @@ In this project we will use a document created by Texas Instruments, to design a
 online for reference.
 The Texas Instruments documentation was selected because it has a clear and in depth explanation of all the concepts that are necessary
 to gain an understanding of LLC converters. The Texas Instruments document also has a solved example which can be of great use practically.
+The code for the design of the LLC converter will be provided in the format of a MATLAB file.
